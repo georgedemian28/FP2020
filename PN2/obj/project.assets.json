@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\George\\source\\repos\\FP2020\\PN1\\PN1.csproj",
-      "projectName": "PN1",
-      "projectPath": "C:\\Users\\George\\source\\repos\\FP2020\\PN1\\PN1.csproj",
+      "projectUniqueName": "C:\\Users\\George\\source\\repos\\FP2020\\PN2\\PN2.csproj",
+      "projectName": "PN2",
+      "projectPath": "C:\\Users\\George\\source\\repos\\FP2020\\PN2\\PN2.csproj",
       "packagesPath": "C:\\Users\\George\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\George\\source\\repos\\FP2020\\PN1\\obj\\",
+      "outputPath": "C:\\Users\\George\\source\\repos\\FP2020\\PN2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\George\\AppData\\Roaming\\NuGet\\NuGet.Config",
