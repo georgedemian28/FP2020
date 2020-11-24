@@ -1,0 +1,13 @@
+C:\Users\George\source\repos\FP2020\PN1\bin\Debug\netcoreapp3.1\PN1.exe
+C:\Users\George\source\repos\FP2020\PN1\bin\Debug\netcoreapp3.1\PN1.deps.json
+C:\Users\George\source\repos\FP2020\PN1\bin\Debug\netcoreapp3.1\PN1.runtimeconfig.json
+C:\Users\George\source\repos\FP2020\PN1\bin\Debug\netcoreapp3.1\PN1.runtimeconfig.dev.json
+C:\Users\George\source\repos\FP2020\PN1\bin\Debug\netcoreapp3.1\PN1.dll
+C:\Users\George\source\repos\FP2020\PN1\bin\Debug\netcoreapp3.1\PN1.pdb
+C:\Users\George\source\repos\FP2020\PN1\obj\Debug\netcoreapp3.1\PN1.csprojAssemblyReference.cache
+C:\Users\George\source\repos\FP2020\PN1\obj\Debug\netcoreapp3.1\PN1.AssemblyInfoInputs.cache
+C:\Users\George\source\repos\FP2020\PN1\obj\Debug\netcoreapp3.1\PN1.AssemblyInfo.cs
+C:\Users\George\source\repos\FP2020\PN1\obj\Debug\netcoreapp3.1\PN1.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\FP2020\PN1\obj\Debug\netcoreapp3.1\PN1.dll
+C:\Users\George\source\repos\FP2020\PN1\obj\Debug\netcoreapp3.1\PN1.pdb
+C:\Users\George\source\repos\FP2020\PN1\obj\Debug\netcoreapp3.1\PN1.genruntimeconfig.cache
